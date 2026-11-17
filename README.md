@@ -17,7 +17,7 @@ Electrical and Electronics Engineering student interested in **Embedded Systems,
 - [CH32V003 RISC-V Bare-Metal Firmware](https://github.com/lijol-embedd/CH32V003-RISC-V-Firmware)
 - [STM32 Embedded Lab](https://github.com/lijol-embedd/STM32-Embedded-Lab)
 
-### 💻 Tools
+### Tools
 C | Embedded C | GCC | AVR-GCC | RISC-V GCC | MounRiver Studio | STM32CubeIDE | Linux | Git
 
 ---
