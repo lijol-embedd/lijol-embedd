@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Lijo 👋
 
-<!--
-**lijol-embedd/lijol-embedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical and Electronics Engineering student interested in **Embedded Systems, Firmware Development and Open-Source Hardware**.
 
-Here are some ideas to get you started:
+### Microcontroller Platforms
+- **AVR** – Arduino Uno (ATmega328P)
+- **ARM Cortex-M** – STM32
+- **RISC-V** – WCH CH32V003
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Interests
+- Embedded C & Bare-Metal Programming
+- GPIO, Timers and Peripheral Interfacing
+- UART, SPI and I²C
+- Linux-Based Embedded Development
+
+### Featured Projects
+- [CH32V003 RISC-V Bare-Metal Firmware](https://github.com/lijol-embedd/CH32V003-RISC-V-Firmware)
+- [STM32 Embedded Lab](https://github.com/lijol-embedd/STM32-Embedded-Lab)
+
+### 💻 Tools
+C | Embedded C | GCC | AVR-GCC | RISC-V GCC | MounRiver Studio | STM32CubeIDE | Linux | Git
+
+---
+
+*Building, experimenting and learning across embedded architectures.*
